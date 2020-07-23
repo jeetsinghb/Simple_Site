@@ -1,0 +1,172 @@
+@media only screen and (max-device-width : 940px) {
+    .container {
+        width: 96%;
+    }
+}
+
+@media only screen and (max-device-width : 800px) {
+    .banner-section .banner-caption {
+        bottom: 45px;
+    }
+}
+
+@media only screen and (max-device-width : 768px) {
+    /* Styles */
+}
+
+@media only screen and (max-device-width : 736px) {
+    .banner-section .banner-caption h3 {
+        font-size: 40pt;
+    }
+
+    .banner-section .banner-caption p {
+        font-size: 18pt;
+    }
+}
+
+@media only screen and (max-device-width : 640px) {
+    .banner-section .banner-caption {
+        bottom: 20px;
+    }
+
+    .team-section ul li {
+        width: 48%;
+        margin-right: 2%;
+    }
+
+    .team-section ul li:nth-child(2) {
+        margin-right: 0;
+    }
+
+    .team-section ul li:last-child {
+        margin-top: 6%;
+    }
+
+    .footer-section .footer-bottom {
+        text-align: center;
+    }
+
+    .footer-section .footer-bottom ul li:last-child {
+        padding-right: 15px;
+    }
+}
+
+@media only screen and (max-device-width: 600px ) {
+    .header-section .logo-section, .header-section .navbar-section {
+        float: none;
+    }
+
+    .header-section .logo-section {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .header-section .navbar-section ul {
+        text-align: center;
+    }
+
+    .header-section .navbar-section ul li {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .banner-section img {
+        display: none;
+    }
+
+    .banner-section .banner-caption {
+        position: relative;
+        color: #45494d;
+        bottom: 0;
+    }
+
+    .banner-section .banner-caption {
+        width: 90%;
+    }
+
+    .banner-section .banner-caption h3 {
+        font-size: 30pt;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-device-width : 460px ) {
+
+    .about-section p {
+        font-size: 18pt;
+    }
+
+    .map-section iframe {
+        height: 400px;
+    }
+
+    .footer-section .footer-top .footer-nav,
+    .footer-section .footer-top .footer-social {
+        float: none;
+    }
+
+    .footer-section .footer-top .footer-nav ul,
+    .footer-section .footer-top .footer-social ul {
+        text-align: center;
+    }
+
+    .footer-section .footer-top .footer-nav {
+        margin-top: 0;
+    }
+
+    .footer-section .footer-top .footer-social {
+        margin-top: 30px;
+    }
+
+    .footer-section .footer-top .footer-social ul li {
+        margin-right: 20px;
+    }
+
+    .footer-section .footer-bottom ul li {
+        display: block;
+        border: 0;
+        margin: 0px 0px 25px 0px;
+    }
+
+    .footer-section .footer-bottom ul li:last-child {
+        margin-bottom: 0;
+        margin-top: 35px;
+    }
+}
+
+@media only screen and (max-device-width: 414px) {
+
+    .team-section ul {
+        margin: 0px 0px 50px 0px;
+    }
+
+    .team-section ul li {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .team-section ul li,
+    .team-section ul li:last-child {
+        margin-top: 10%;
+    }
+
+    .team-section a.work-btn {
+        width: 90%;
+    }
+
+}
+
+@media only screen and (max-device-width: 375px) {
+    /* Styles */
+}
+
+@media only screen and (max-device-width: 360px) {
+    /* Styles */
+}
+    
+@media only screen and (max-device-width : 320px) {
+    .banner-section .banner-caption h3 {
+        font-size: 28pt;
+    }
+}
